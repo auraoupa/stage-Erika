@@ -534,3 +534,4 @@ distributed.core - INFO - Event loop was unresponsive in Worker for 4.02s.  This
 distributed.core - INFO - Event loop was unresponsive in Worker for 4.02s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
 distributed.core - INFO - Event loop was unresponsive in Worker for 4.02s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
 distributed.core - INFO - Event loop was unresponsive in Worker for 4.04s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - INFO - full garbage collection released 12.81 MB from 1174 reference cycles (threshold: 10.00 MB)
