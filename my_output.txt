@@ -1,0 +1,10 @@
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mNameError[0m                                 Traceback (most recent call last)
+[0;32m/scratch/cnt0024/hmg2840/albert7a/DEV/git/stage-erika/2020-04-02-AA-launch-workers-and-write-curl-strain-filt-ACO-all-files-on-occigen.py[0m in [0;36m<module>[0;34m[0m
+[1;32m      1[0m [0;31m#!/usr/bin/env python[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
+[1;32m      2[0m [0;34m[0m[0m
+[0;32m----> 3[0;31m [0;32mif[0m [0mnb_workers[0m [0;32mis[0m [0;32mNone[0m [0;34m:[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m      4[0m [0;34m[0m[0m
+[1;32m      5[0m         [0;32mfrom[0m [0mdask_jobqueue[0m [0;32mimport[0m [0mSLURMCluster[0m[0;34m[0m[0;34m[0m[0m
+
+[0;31mNameError[0m: name 'nb_workers' is not defined
