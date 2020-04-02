@@ -508,3 +508,4 @@ distributed.core - INFO - Starting established connection
 distributed.core - INFO - Starting established connection
 distributed.utils_perf - INFO - full garbage collection released 10.09 MB from 4026 reference cycles (threshold: 10.00 MB)
 distributed.utils_perf - INFO - full garbage collection released 10.41 MB from 2376 reference cycles (threshold: 10.00 MB)
+slurmstepd: error: *** JOB 9961804 ON n2302 CANCELLED AT 2020-04-02T17:56:06 DUE TO TIME LIMIT ***

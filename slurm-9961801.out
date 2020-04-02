@@ -659,3 +659,4 @@ distributed.utils_perf - INFO - full garbage collection released 37.35 MB from 6
 distributed.utils_perf - INFO - full garbage collection released 13.31 MB from 1052 reference cycles (threshold: 10.00 MB)
 distributed.utils_perf - INFO - full garbage collection released 10.95 MB from 1696 reference cycles (threshold: 10.00 MB)
 distributed.utils_perf - INFO - full garbage collection released 11.92 MB from 3803 reference cycles (threshold: 10.00 MB)
+slurmstepd: error: *** JOB 9961801 ON n2780 CANCELLED AT 2020-04-02T17:53:36 DUE TO TIME LIMIT ***

@@ -506,3 +506,4 @@ distributed.core - INFO - Starting established connection
 distributed.core - INFO - Starting established connection
 distributed.core - INFO - Starting established connection
 distributed.core - INFO - Starting established connection
+slurmstepd: error: *** JOB 9961805 ON n2368 CANCELLED AT 2020-04-02T17:56:06 DUE TO TIME LIMIT ***
