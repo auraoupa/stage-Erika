@@ -507,3 +507,4 @@ distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:45291
 distributed.worker - INFO - -------------------------------------------------
 distributed.core - INFO - Starting established connection
 distributed.utils_perf - INFO - full garbage collection released 12.94 MB from 1410 reference cycles (threshold: 10.00 MB)
+slurmstepd: error: *** JOB 9961802 ON n2303 CANCELLED AT 2020-04-02T17:54:06 DUE TO TIME LIMIT ***
