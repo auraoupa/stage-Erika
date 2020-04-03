@@ -690,3 +690,264 @@ distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://17
 distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34884 remote=tcp://172.30.100.3:37340>
 distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34920 remote=tcp://172.30.100.3:37340>
 distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34958 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34332 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34030 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34372 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34068 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34412 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34104 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34144 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34180 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34220 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34256 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35020 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35400 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35092 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35134 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35166 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35204 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35250 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34752 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34792 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34830 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34866 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34906 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34942 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34980 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34024 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34367 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34062 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34403 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34108 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34172 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34214 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34250 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35392 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35088 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35132 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35164 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35202 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35242 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34748 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34788 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34820 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34860 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34904 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34940 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34976 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34334 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34028 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34370 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34066 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34402 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34100 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34142 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34182 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34218 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34252 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35052 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35362 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35398 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35096 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35128 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35169 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35210 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35244 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35288 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34754 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34784 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34824 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34868 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34896 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34930 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34982 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34328 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34014 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34358 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34060 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34390 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34094 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34132 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34178 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34212 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34254 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35014 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35056 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35396 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35082 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35120 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35160 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35198 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35238 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34744 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34780 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34828 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34852 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34902 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34934 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34966 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34316 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34018 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34356 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34050 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34086 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34396 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34134 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34168 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34202 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34244 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35344 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35042 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35384 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35086 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35114 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35156 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35194 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35228 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34740 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34776 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34810 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34858 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34892 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34926 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34964 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34344 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34040 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34382 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34078 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34116 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34154 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34192 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34230 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35334 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35030 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35372 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35410 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35446 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35144 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35182 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35220 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35258 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:35296 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34802 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34840 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34878 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34916 remote=tcp://172.30.100.3:37340>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.170:34992 remote=tcp://172.30.100.3:37340>
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:33360
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:33771
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:33854
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:34056
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:34690
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:35688
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:35858
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:36731
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:37279
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:36898
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:37585
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:37660
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:38817
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:37771
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:39814
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:39836
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:41128
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:43014
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:41304
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:43488
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:43954
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:45436
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:45224
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:45415
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:45488
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:46083
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:46378
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.170:45014
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:44456'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:41630'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:37054'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:35533'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:46186'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:40947'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:34483'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:41352'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:40759'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:34366'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:34369'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:33636'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:44093'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:35196'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:37073'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:45760'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:45980'
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:37072'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:35871'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:45051'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:42832'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:42361'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:33089'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:38747'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:34469'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:45840'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:41539'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.170:37955'
+distributed.dask_worker - INFO - End worker
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
